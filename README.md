@@ -1,6 +1,5 @@
 # 📚 Study&Share
-
-![Welcome](./Welcome.png)
+![Welcome](https://github.com/user-attachments/assets/71b91ee3-9921-4a01-8955-f27e759344f8)
 
 **Study&Share** is a collaborative platform built to strengthen the academic community by encouraging knowledge sharing and peer support among university students.
 
@@ -25,9 +24,9 @@ Developed using **Swift**, this iOS app promotes connectivity and accessibility 
 ---
 
 ## 🖥️ Screenshots
+![Mask group](https://github.com/user-attachments/assets/455914c0-25fe-4724-8543-b0273eeeec80)
+![Escolha sua comunidade](https://github.com/user-attachments/assets/5616515c-9abe-44cb-b80e-69583eaf860a)
+![Disciplina](https://github.com/user-attachments/assets/d1bff2d6-d1be-42b7-a290-e4f759577edc)
 
-| Welcome | Community Selection | Course Page |
-|--------|----------------------|-------------|
-| ![Welcome](./Welcome.png) | ![Community](./Escolha%20sua%20comunidade.png) | ![Course](./Disciplina.png) |
 
 ---
