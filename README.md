@@ -26,6 +26,7 @@ Developed using **Swift**, this iOS app promotes connectivity and accessibility 
 ![Mask group](https://github.com/user-attachments/assets/455914c0-25fe-4724-8543-b0273eeeec80)
 ![Escolha sua comunidade](https://github.com/user-attachments/assets/5616515c-9abe-44cb-b80e-69583eaf860a)
 ![Disciplina](https://github.com/user-attachments/assets/d1bff2d6-d1be-42b7-a290-e4f759577edc)
-![Welcome](https://github.com/user-attachments/assets/71b91ee3-9921-4a01-8955-f27e759344f8)
+![Fórum interno](https://github.com/user-attachments/assets/3983eaf1-8e5a-47f8-847b-58e1381d960b)
+
 
 ---
